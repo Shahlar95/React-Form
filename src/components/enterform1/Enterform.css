@@ -1,0 +1,31 @@
+
+
+.input-name{
+    width: 200px;
+    height: 30px;
+    border:none;
+}
+
+.input-surname{
+    width: 200px;
+    height: 30px;
+    border:none;
+}
+
+.danger{
+    
+    border: 1px solid red;
+
+  }
+
+  .star{
+    color: red;
+  }
+
+  .input-headers{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-bottom: 0px;
+  }
