@@ -1,0 +1,43 @@
+.enter-div{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  
+  .input-mail{
+      width: 200px;
+      height: 30px;
+      border:none;
+  }
+  
+  .input-mobile{
+      width: 200px;
+      height: 30px;
+      border:none;
+  }
+  
+  .danger{
+    width: 200px;
+    height: 30px;
+    border: 1px solid red;
+  
+    }
+  
+    .star{
+      color: red;
+    }
+  
+    .input-headers{
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      align-items: flex-start;
+      margin-bottom: 0px;
+      margin-left: 110px;
+    }
+  
+  

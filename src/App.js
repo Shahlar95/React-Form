@@ -1,6 +1,6 @@
 import './App.css';
 import { Formorder } from './components/Formorder';
-import Nextprev from './components/Nextprev/Nextprev';
+
 
 
 function App() {

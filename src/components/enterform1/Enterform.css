@@ -1,3 +1,11 @@
+.enter-div{
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 
 .input-name{
@@ -13,8 +21,9 @@
 }
 
 .danger{
-    
-    border: 1px solid red;
+  width: 200px;
+  height: 30px;
+  border: 1px solid red;
 
   }
 
@@ -28,4 +37,6 @@
     justify-content: flex-start;
     align-items: flex-start;
     margin-bottom: 0px;
+    margin-left: 110px;
   }
+
